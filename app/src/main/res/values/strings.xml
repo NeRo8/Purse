@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Purse</string>
+    <string name="title_activity_purse">PurseActivity</string>
+    <string name="tv_label_name_purse">Назва кошелька:</string>
+    <string name="tv_label_type_purse">Валюта:</string>
+    <string name="tv_label_value_purse">Баланс:</string>
+    <string-array name="purse_type_list">
+        <item>UAH</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
